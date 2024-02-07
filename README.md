@@ -8,6 +8,8 @@ The system is implemented using the following components:
 - The dataset used for training and testing the models is sourced from [Kaggle](https://www.kaggle.com/datasets/neelpratiksha/indian-traffic-sign-dataset), consisting of Indian traffic sign images.
 - The images are preprocessed, including grayscale conversion, standardized lighting, and resizing.
 
+  ![image](https://github.com/akanksha-2002/Indian_traffic_sign_detection_system/assets/94109994/13eeba87-0907-4d06-b768-9d7722978f3e)
+
 ### Model Architecture:
 
 - **YOLOv8** : The YOLOv8 model is utilized for real-time object detection. It employs the **Darknet-53** architecture and predicts bounding boxes, object scores, and class scores at multiple scales.
